@@ -16,22 +16,6 @@
 
 
 
-## Koishi Log Formatter
-
-格式化渲染 Koishi 日志文件， 让历史日志文件更易分析、定位问题
-
-<a href="/koishi-shangxue-apps-docs/LogFormatter.html" target="_blank" rel="noopener noreferrer">访问 Koishi Log Formatter</a>
-
-
-
-## Koishi Market Analysis
-
-分析 Koishi 市场镜像源的数据，比对特有插件、插件状态
-
-<a href="/koishi-shangxue-apps-docs/KoishiMarketAnalysis.html" target="_blank" rel="noopener noreferrer">访问 Koishi Market Analysis</a>
-
-
-
 ## Full screen black
 
 全屏黑屏工具，可能是    夜间好助手？
@@ -48,6 +32,20 @@ Markdown 编辑-预览 工具
 
 <a href="/koishi-shangxue-apps-docs/MarkdownEditor.html" target="_blank" rel="noopener noreferrer">访问 Markdown Editor</a>
 
+
+## Koishi Log Formatter
+
+格式化渲染 Koishi 日志文件， 让历史日志文件更易分析、定位问题
+
+<a href="/koishi-shangxue-apps-docs/LogFormatter.html" target="_blank" rel="noopener noreferrer">访问 Koishi Log Formatter</a>
+
+
+
+## Koishi Market Analysis
+
+分析 Koishi 市场镜像源的数据，比对特有插件、插件状态
+
+<a href="/koishi-shangxue-apps-docs/KoishiMarketAnalysis.html" target="_blank" rel="noopener noreferrer">访问 Koishi Market Analysis</a>
 
 
 ## Next Chat
