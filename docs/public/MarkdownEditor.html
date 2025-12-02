@@ -574,7 +574,9 @@
 
     // 监听编辑器输入
     editor.addEventListener('input', function () {
+      // 确保同步执行，避免UI渲染冲突
       updateLineNumbers();
+      adjustTextareaHeight();
       renderMarkdown();
       saveContent();
     });
@@ -650,7 +652,6 @@
     }
 
     // 在输入和窗口调整大小时调整textarea高度
-    editor.addEventListener('input', adjustTextareaHeight);
     window.addEventListener('resize', adjustTextareaHeight);
 
     // 初始调整
