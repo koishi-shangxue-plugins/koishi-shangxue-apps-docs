@@ -12,7 +12,7 @@
 
 一个方便下载表情包的工具，适用于 [bilibili专栏链接提取脚本](https://greasyfork.org/zh-CN/scripts/521666-bilibili%E4%B8%93%E6%A0%8F%E5%8E%9F%E5%9B%BE%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%962024%E6%94%B9%E7%89%88) 的下载器哦
 
-<a href="/koishi-shangxue-apps/MemeDownloader.html" target="_blank" rel="noopener noreferrer">访问 MeMe Downloader</a>
+<a href="/koishi-shangxue-apps-docs/MemeDownloader.html" target="_blank" rel="noopener noreferrer">访问 MeMe Downloader</a>
 
 
 
@@ -20,7 +20,7 @@
 
 格式化渲染 Koishi 日志文件， 让历史日志文件更易分析、定位问题
 
-<a href="/koishi-shangxue-apps/LogFormatter.html" target="_blank" rel="noopener noreferrer">访问 Koishi Log Formatter</a>
+<a href="/koishi-shangxue-apps-docs/LogFormatter.html" target="_blank" rel="noopener noreferrer">访问 Koishi Log Formatter</a>
 
 
 
@@ -28,7 +28,7 @@
 
 分析 Koishi 市场镜像源的数据，比对特有插件、插件状态
 
-<a href="/koishi-shangxue-apps/KoishiMarketAnalysis.html" target="_blank" rel="noopener noreferrer">访问 Koishi Market Analysis</a>
+<a href="/koishi-shangxue-apps-docs/KoishiMarketAnalysis.html" target="_blank" rel="noopener noreferrer">访问 Koishi Market Analysis</a>
 
 
 
@@ -36,7 +36,7 @@
 
 全屏黑屏工具，可能是    夜间好助手？
 
-<a href="/koishi-shangxue-apps/ALLblack.html" target="_blank" rel="noopener noreferrer">访问 Full screen black</a>
+<a href="/koishi-shangxue-apps-docs/ALLblack.html" target="_blank" rel="noopener noreferrer">访问 Full screen black</a>
 
 
 
@@ -46,7 +46,7 @@ Markdown 编辑-预览 工具
 
 > 在文档列出 以便于快速访问、使用
 
-<a href="/koishi-shangxue-apps/MarkdownEditor.html" target="_blank" rel="noopener noreferrer">访问 Markdown Editor</a>
+<a href="/koishi-shangxue-apps-docs/MarkdownEditor.html" target="_blank" rel="noopener noreferrer">访问 Markdown Editor</a>
 
 
 
@@ -63,7 +63,7 @@ Markdown 编辑-预览 工具
 >
 > 其他 还有好用的deepseek： https://chat.deepseek.com/
  
-<a href="/koishi-shangxue-apps/NextChat.html" target="_blank" rel="noopener noreferrer">访问 Next Chat webUI</a>
+<a href="/koishi-shangxue-apps-docs/NextChat.html" target="_blank" rel="noopener noreferrer">访问 Next Chat webUI</a>
 
 
 
@@ -73,4 +73,4 @@ Markdown 编辑-预览 工具
 
 > 支持生成基础的 `Taskfile.yml` 文件
 
-<a href="/koishi-shangxue-apps/Taskfile.html" target="_blank" rel="noopener noreferrer">访问 Taskfile 可视化生成器</a>
+<a href="/koishi-shangxue-apps-docs/Taskfile.html" target="_blank" rel="noopener noreferrer">访问 Taskfile 可视化生成器</a>
